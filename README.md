@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Zach, a Computer Science student 🐱‍💻 at the University of Idaho 🎓 and looking for work as a Software Engineer 🚀</div>  
+### <div align="center">I'm Zach, a Computer Science student 🐱‍💻 at the University of Idaho 🎓 Looking for work as a Software Engineer 🚀</div>  
   
 
 - ⚡  I’m currently working on [ElectricBlocks](https://github.com/ElectricBlocks/electricblocks), a power engineering mod for Minecraft that lets you construct and simulate realistic power flow.  
