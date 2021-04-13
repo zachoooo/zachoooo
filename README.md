@@ -109,8 +109,3 @@
 </div>  
 
 <br />
-
-## Latest Jams
-<div align="center">
-<img src="https://lastcollage.io/images/e3f3e2226055e1d7ff55b7e0b47e959ec909f341.webp" width="600" />
-</div>
