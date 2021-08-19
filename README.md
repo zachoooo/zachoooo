@@ -3,10 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Zach, a CS student 🐱‍💻 at the University of Idaho 🎓 Currently working at Resource Data 🚀</div>  
-  
+### <div align="center">I'm Zach, a software engineer 🐱‍💻 with a passion for data science 💾 Currently working at Resource Data 🚀</div>  
 
-- ⚡  I’m currently working on [ElectricBlocks](https://github.com/ElectricBlocks/electricblocks), a power engineering mod for Minecraft that lets you construct and simulate realistic power flow.  
+- ⚡  I’ve created my own Minecraft Mod called [ElectricBlocks](https://github.com/ElectricBlocks/electricblocks), a power engineering mod that lets you construct and simulate realistic power flow.  
   
 
 - 🖥️ I've written my own compiler using Flex/Bison and C++. It's written for a language called [c-](https://github.com/zachoooo/c-).
