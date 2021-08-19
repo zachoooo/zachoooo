@@ -11,7 +11,7 @@
 - 🖥️ I've written my own compiler using Flex/Bison and C++. It's written for a language called [c-](https://github.com/zachoooo/c-).
   
 
-- 💡 I've taken courses in Machine Learning and Evolutionary Computation. I'm currently taking another related class called Python for Machine Learning.
+- 💡 I've taken several courses in artificial intelligence including Python for Machine Learning, Machine Learning, and Evolutionary Computation.
   
 
 - 🤖 Fun fact: I won the Northrop Grumman Innovation Challenge to design an autonomous robot powered entirely by renewable energy.
