@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Zach, a software engineer 🐱‍💻 with a passion for data science 💾 Currently working at Resource Data 🚀</div>  
+### <div align="center">I'm Zach, a software engineer 🐱‍💻 with a passion for data science 💾 Currently working at [AKASA](https://github.com/alpha-health-ai) 🚀</div>  
 
 - ⚡  I’ve created my own Minecraft Mod called [ElectricBlocks](https://github.com/ElectricBlocks/electricblocks), a power engineering mod that lets you construct and simulate realistic power flow.  
   
