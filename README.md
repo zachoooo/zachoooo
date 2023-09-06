@@ -92,16 +92,9 @@
 <a href="https://www.facebook.com/zach.sugano" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zachoooo&show_icons=true&count_private=true&hide_border=true&theme=synthwave&include_all_commits=true" align="center" /></div>  
-
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zachoooo&&style=flat-square" align="center" />
